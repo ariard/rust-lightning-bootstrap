@@ -1,0 +1,8 @@
+[package]
+name = "rust-lightning-bootstrap"
+version = "0.1.0"
+authors = ["Antoine Riard <ariard@student.42.fr>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.4"
